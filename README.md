@@ -1,3 +1,3 @@
 # BotExchange
 Currency Converter
-Имя Телеграм бота - @DajahlBot
+Имя Телеграм бота - BotExchange
